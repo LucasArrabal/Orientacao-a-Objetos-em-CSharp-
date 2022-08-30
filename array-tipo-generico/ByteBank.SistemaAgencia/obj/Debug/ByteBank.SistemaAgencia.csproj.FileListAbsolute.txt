@@ -1,0 +1,12 @@
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb

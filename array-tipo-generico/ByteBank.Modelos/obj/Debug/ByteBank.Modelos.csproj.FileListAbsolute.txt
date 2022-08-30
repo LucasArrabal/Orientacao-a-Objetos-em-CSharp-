@@ -1,0 +1,7 @@
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\lucas.arrabal_uscson\Desktop\array-tipo-generico\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
