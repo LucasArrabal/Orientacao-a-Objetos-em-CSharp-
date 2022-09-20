@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ek28IzBv9/T2x+mgZzg32oVN2nB3k7n6I3n74qbkWX8zu/yNPedd1W6NRNVI+3vZWteVCstsEZp64JHyvNPJ4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\x527308\\source\\repos\\EstudoCsharp\\EstudoCsharp\\EstudoCsharp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://webdesenv5.prodam/PP9803_NugetServer/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
