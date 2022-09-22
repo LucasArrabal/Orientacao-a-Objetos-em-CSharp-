@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using projetos.models;
 
 namespace projetos
@@ -7,6 +7,8 @@ namespace projetos
     {
         static void Main(string[] args)
         {
+            //Menu();
+            //TesteFor();
             //TesteCalculadora();
             //TesteContas();
             //TesteSwitchCase();
@@ -14,6 +16,55 @@ namespace projetos
             //Conversao();
            //TesteClass();
            //Tipos();
+        }
+
+          static void Menu()
+          {
+              string opcao;
+              bool exibirMenu = true;
+              while(exibirMenu)
+              {
+                Console.Clear();
+                Console.WriteLine("Digite sua opção : ");
+                Console.WriteLine("1 - Cadastrar Cliente");
+                Console.WriteLine("2 - Buscar Cliente");
+                Console.WriteLine("3 - Apagar Cliente");
+                Console.WriteLine("4 - Encerrar");
+
+                opcao = Console.ReadLine();
+
+                switch(opcao)
+                {
+                    case "1":
+                    Console.WriteLine("1 - Cadastrar Cliente");
+                    break;
+                     case "2":
+                    Console.WriteLine("2 - Buscar Cliente");
+                    break;
+                     case "3":
+                    Console.WriteLine("3 - Apagar Cliente");
+                    break;
+                     case "4":
+                    Console.WriteLine("4 - Encerrar");
+                    exibirMenu = false;
+                    break;
+
+                    default:
+                    Console.WriteLine("Opção Invalida");
+                    break;
+                }
+
+              }
+              Console.WriteLine("");
+          }
+        static void TesteFor()
+        {
+            int num = 10;
+            for(int i = 0; i <=10;i++)
+            {
+                Console.WriteLine($"{num} x {i} = {num * i} "); 
+
+            }
         }
         static void TesteCalculadora()
         {
