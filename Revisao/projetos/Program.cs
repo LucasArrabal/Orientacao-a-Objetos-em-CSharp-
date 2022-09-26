@@ -7,6 +7,9 @@ namespace projetos
     {
         static void Main(string[] args)
         {
+            //AumentandoArray();
+            //ArrayForReach();
+            //Array();
             //Menu();
             //TesteFor();
             //TesteCalculadora();
@@ -16,6 +19,51 @@ namespace projetos
             //Conversao();
            //TesteClass();
            //Tipos();
+        }
+         static void AumentandoArray()
+        {
+            int[] arrayInteiros = new int[3];
+            arrayInteiros[0] = 10;
+            arrayInteiros[1] = 20;
+            arrayInteiros[2] = 30;
+
+            //Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);    
+
+            for(int i = 0; i < arrayInteiros.Length; i++)
+            {
+                Console.WriteLine($"Posiçao N° {i}  - {arrayInteiros[i]}");
+            }
+        }
+
+        static void ArrayForReach()
+        {
+            int[] arrayInteros = new int[3];
+            arrayInteros[0] = 10;
+            arrayInteros[1] = 20;
+            arrayInteros[2] = 30;
+
+            for(int i = 0; i < arrayInteros.Length; i++)
+            {
+                Console.WriteLine($"Posiçao N° {i}  - {arrayInteros[i]}");
+            }
+            Console.WriteLine("Percorrendo o Array com o FOREACH");
+           foreach (int valor in arrayInteros)
+           {
+                Console.WriteLine(valor);
+           }
+        }
+
+        static void  Array()
+        {
+            int[] arrayInteros = new int[3];
+            arrayInteros[0] = 10;
+            arrayInteros[1] = 20;
+            arrayInteros[2] = 30;
+
+            for(int i = 0; i < arrayInteros.Length; i++)
+            {
+                Console.WriteLine($"Posiçao N° {i}  - {arrayInteros[i]}");
+            }
         }
 
           static void Menu()
