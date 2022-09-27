@@ -7,6 +7,7 @@ namespace projetos
     {
         static void Main(string[] args)
         {
+            //Lista();
             //AumentandoArray();
             //ArrayForReach();
             //Array();
@@ -20,6 +21,29 @@ namespace projetos
            //TesteClass();
            //Tipos();
         }
+        
+        static void Lista()
+        {
+            List<string> letra = new List<string>();
+            letra.Add("A");
+            letra.Add("B");
+            letra.Add("C");
+            letra.Add("D");
+
+            Console.WriteLine("usando o FOR");
+            for (int i = 0; i < letra.Count; i++)
+            {
+                Console.WriteLine($"Posição N°{i} - {letra[i]}");
+            }
+            Console.WriteLine("usando o FOREACH");
+            int contador = 0;
+            foreach (var item in letra)
+            {
+                Console.WriteLine($"Posição N°{contador} - {letra[contador]}");
+                contador++;
+            }
+          }   
+        
          static void AumentandoArray()
         {
             int[] arrayInteiros = new int[3];
