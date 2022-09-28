@@ -1,0 +1,15 @@
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\bin\Debug\net6.0\Estudo-02.exe
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\bin\Debug\net6.0\Estudo-02.deps.json
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\bin\Debug\net6.0\Estudo-02.runtimeconfig.json
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\bin\Debug\net6.0\Estudo-02.dll
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\bin\Debug\net6.0\Estudo-02.pdb
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\obj\Debug\net6.0\Estudo-02.csproj.AssemblyReference.cache
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\obj\Debug\net6.0\Estudo-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\obj\Debug\net6.0\Estudo-02.AssemblyInfoInputs.cache
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\obj\Debug\net6.0\Estudo-02.AssemblyInfo.cs
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\obj\Debug\net6.0\Estudo-02.csproj.CoreCompileInputs.cache
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\obj\Debug\net6.0\Estudo-02.dll
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\obj\Debug\net6.0\refint\Estudo-02.dll
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\obj\Debug\net6.0\Estudo-02.pdb
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\obj\Debug\net6.0\Estudo-02.genruntimeconfig.cache
+C:\Users\lucas.arrabal_uscson\Desktop\Estudo-02\obj\Debug\net6.0\ref\Estudo-02.dll
