@@ -1,0 +1,17 @@
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\bin\Debug\net6.0\NugetSerializarAtribudos.exe
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\bin\Debug\net6.0\NugetSerializarAtribudos.deps.json
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\bin\Debug\net6.0\NugetSerializarAtribudos.runtimeconfig.json
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\bin\Debug\net6.0\NugetSerializarAtribudos.dll
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\bin\Debug\net6.0\NugetSerializarAtribudos.pdb
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\obj\Debug\net6.0\NugetSerializarAtribudos.csproj.AssemblyReference.cache
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\obj\Debug\net6.0\NugetSerializarAtribudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\obj\Debug\net6.0\NugetSerializarAtribudos.AssemblyInfoInputs.cache
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\obj\Debug\net6.0\NugetSerializarAtribudos.AssemblyInfo.cs
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\obj\Debug\net6.0\NugetSerializarAtribudos.csproj.CoreCompileInputs.cache
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\obj\Debug\net6.0\NugetSerializarAtribudos.csproj.CopyComplete
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\obj\Debug\net6.0\NugetSerializarAtribudos.dll
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\obj\Debug\net6.0\refint\NugetSerializarAtribudos.dll
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\obj\Debug\net6.0\NugetSerializarAtribudos.pdb
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\obj\Debug\net6.0\NugetSerializarAtribudos.genruntimeconfig.cache
+C:\Users\x527308\source\repos\NugetSerializarAtribudos\NugetSerializarAtribudos\obj\Debug\net6.0\ref\NugetSerializarAtribudos.dll
